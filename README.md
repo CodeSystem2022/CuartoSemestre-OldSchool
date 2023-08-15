@@ -24,4 +24,18 @@
 
 ### Julian Antequera
 
+# Organización 
+
+## Semanas del 1 al 6
+
+| Semana   | Scrum Master           |
+|----------|------------------------|
+| Semana 1 | Andrea Reynoso         |
+| Semana 2 | Yessica Reynoso        |
+| Semana 3 | Yair Mathez            |
+| Semana 4 | Francisco Tonidandel   |
+| Semana 5 | Julian Antequera       |
+| Semana 6 | Tomas Cañete           |
+
+
 
