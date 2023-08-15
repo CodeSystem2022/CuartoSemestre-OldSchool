@@ -28,14 +28,17 @@
 
 ## Semanas del 1 al 6
 
-| Semana   | Scrum Master           |
-|----------|------------------------|
-| Semana 1 | Andrea Reynoso         |
-| Semana 2 | Yessica Reynoso        |
-| Semana 3 | Yair Mathez            |
-| Semana 4 | Francisco Tonidandel   |
-| Semana 5 | Julian Antequera       |
-| Semana 6 | Tomas Cañete           |
+| Semana   | Fecha de Inicio | Scrum Master           |
+|----------|-----------------|------------------------|
+| Semana 1 | 14 de Agosto    | Andrea Reynoso         |
+| Semana 2 | 21 de Agosto    | Yessica Reynoso        |
+| Semana 3 | 28 de Agosto    | Yair Mathez            |
+| Semana 4 | 4 de Septiembre | Francisco Tonidandel   |
+| Semana 5 | 11 de Septiembre| Julian Antequera       |
+| Semana 6 | 18 de Septiembre| Tomas Cañete           |
+
+
+
 
 
 
