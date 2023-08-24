@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40f83799-190f-4bad-9e94-1f6b35792a60" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java/Leccion11/Ventas/Ventas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Leccion11/Ventas/src/ar/com/codesystem/ventas/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Leccion11/Ventas/src/ar/com/codesystem/ventas/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/Leccion01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__com_zaxxer_HikariCP_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__io_smallrye_jandex_3_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_2_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__jakarta_inject_jakarta_inject_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__net_minidev_json_smart_2_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_antlr_antlr4_runtime_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_assertj_assertj_core_3_24_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_eclipse_angus_angus_activation_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_core_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_glassfish_jaxb_txw2_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_6_0_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_hibernate_orm_hibernate_core_6_2_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_5_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_mockito_mockito_core_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_objenesis_objenesis_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_ow2_asm_asm_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_projectlombok_lombok_1_18_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_data_spring_data_commons_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_3_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_aop_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_aspects_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_beans_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_context_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_core_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_expression_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_jdbc_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_orm_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_test_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_springframework_spring_tx_6_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion01/estudiantes/estudiantes/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Argumentos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Argumentos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Argumentos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Argumentos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Argumentos/Argumentos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Argumentos/src/test/TestArgumentosVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/BloquesInicializacion/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/BloquesInicializacion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/BloquesInicializacion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/BloquesInicializacion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/BloquesInicializacion/BloquesInicializacion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/BloquesInicializacion/src/domain/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/BloquesInicializacion/src/test/TestBloqueinicializacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/Enumeraciones.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/src/enumeraciones/Continentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/src/enumeraciones/Dias.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion02/Enumeraciones/src/test/TestEnumeraciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/AutoboxingUnboxing/AutoboxingUnboxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/AutoboxingUnboxing/src/test/TestAutoboxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ForEach/ForEach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ForEach/src/domain/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ForEach/src/test/TestForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/ModificadoresAcceso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/src/paquete1/Clase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/src/paquete1/Clase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/src/paquete1/ClaseHija2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/src/paquete1/TestDeault.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/src/paquete2/Clase3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/src/paquete2/Clase4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion03/ModificadoresAcceso/src/test/TestModificadoresAcceso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/Sobreescritura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/out/production/Sobreescritura/domain/Empleado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/out/production/Sobreescritura/domain/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/out/production/Sobreescritura/test/TestSobreescritura.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/src/domain/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/src/domain/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/InstanceOf/src/test/TestSobreescritura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/Sobreescritura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/src/domain/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/src/domain/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion04/Sobreescritura/src/test/TestInstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClaseObject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClaseObject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClaseObject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClaseObject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClaseObject/ClaseObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClaseObject/src/Test/TestClaseObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/ClasesAbstractas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/src/domain/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/src/domain/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ClasesAbstractas/src/test/TestAbstractas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/ConversionObjetos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/src/domain/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/src/domain/Escritor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/src/domain/TipoEscritura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion05/ConversionObjetos/src/test/TestConversionObejtos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/Interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/src/ImplementacionMySql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/src/ImplementacionOracle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion06/Interfaces/src/accesodatos/IAccesoDatos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion07/JavaBeans/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion07/JavaBeans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion07/JavaBeans/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion07/JavaBeans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion07/JavaBeans/JavaBeans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion07/JavaBeans/src/domain/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion07/JavaBeans/src/test/TestJavaBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/ManejoDeExepciones1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/src/TestExepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/src/aritmetica/Aritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion08/ManejoDeExepciones1/src/exepciones/OperacionExcepcion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion09/CalculadoraUTN/CalculadoraUTN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion09/CalculadoraUTN/src/CalculadoraUTN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/MundoPc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/src/ar/com/system2023/mundopc/Computadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/src/ar/com/system2023/mundopc/DispositivoEntrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/src/ar/com/system2023/mundopc/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/src/ar/com/system2023/mundopc/Orden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/src/ar/com/system2023/mundopc/Raton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/src/ar/com/system2023/mundopc/Teclado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion1/MundoPc/src/mundopc/mundoPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion11/ListarPersonas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion11/ListarPersonas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion11/ListarPersonas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion11/ListarPersonas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion11/ListarPersonas/ListarPersonas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion11/ListarPersonas/src/ListadoPersonasApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion11/ListarPersonas/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion12/SistemaEstudiantes/src/main/java/UTN/datos/EstudianteDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion12/SistemaEstudiantes/src/main/java/UTN/dominio/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion12/SistemaEstudiantes/src/main/java/UTN/presentacion/SistemaEstudiantesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java/Tecnicatura3Java/Leccion12/SistemaEstudiantes/src/main/java/conexion/Conexion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/Leccion03/03-01OperadoresJavaScript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaScript/Leccion03/03-01OperadoresJavaScript.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/Usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/capa_datos.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/conexion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/cursor_del_pool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/logger_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/menu_app_usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/persona_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capa_datos_persona/usuario_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Archivos/Leccion2/ManejoArchivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Archivos/Leccion2/archivos_con_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Archivos/Leccion2/copia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Archivos/Leccion2/leer_archivo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Archivos/Leccion2/manejo_archivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Archivos/Leccion2/prueba.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Excepciones/Leccion1/NumerosIgualesException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Excepciones/Leccion1/manejos_excepciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion03/catalogo_peliculas/dominio/Pelicula.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion03/catalogo_peliculas/dominio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion03/catalogo_peliculas/peliculas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion03/catalogo_peliculas/servicio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion03/catalogo_peliculas/servicio/catalogo_peliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion03/catalogo_peliculas/test_catalogo_peliculas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/actualizar_registro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/actualizar_varios_r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/delete_registro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/delete_varios_registros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/i_registros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/prueba_bd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/transacciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/transacciones_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/transacciones_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/v_i_registros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tecnicatura3Py/Leccion04/BD/v_registros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/Empleado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/Gerente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/test_polimorfismo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ClonAsistenciaOctubre/Asistencia-OLDSCHOOL" beforeDir="false" afterPath="$PROJECT_DIR$/../../ClonAsistenciaOctubre/Asistencia-OLDSCHOOL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java/RepoProyecto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java/RepoProyecto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Leccion11/test_ordenes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Leccion11/test_ordenes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClientePersona.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Persona.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PycharmProjects/metodos/Persona.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PycharmProjects/metodos/Persona.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PycharmProjects/sobrecarga_metods.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PycharmProjects/sobrecarga_metods.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2QAYBtPEnO8OD6Tofy1DRZqoU1X" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yair_/TecnicaturaGIt/Python/Leccion7&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.menu_app_usuario">
+    <configuration name="conexion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leccion7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capa_datos_persona" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capa_datos_persona/conexion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cursor_del_pool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leccion7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capa_datos_persona" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capa_datos_persona/cursor_del_pool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logger_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leccion7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capa_datos_persona" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capa_datos_persona/logger_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu_app_usuario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leccion7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capa_datos_persona" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capa_datos_persona/menu_app_usuario.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="persona_dao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leccion7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capa_datos_persona" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capa_datos_persona/persona_dao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.menu_app_usuario" />
+        <item itemvalue="Python.persona_dao" />
+        <item itemvalue="Python.cursor_del_pool" />
+        <item itemvalue="Python.conexion" />
+        <item itemvalue="Python.logger_base" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40f83799-190f-4bad-9e94-1f6b35792a60" name="Changes" comment="" />
+      <created>1684797720834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684797720834</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
