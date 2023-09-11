@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77dddd06-0d91-488c-8927-5b79e0ea3cdc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Clase1/SistemaEstudiantes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion01/ciclos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion02Arreglos/02-03-arreglos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion03Funciones/01-03-funciones.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion04Objetos/01-04objetos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion04Objetos/holamundo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion04Objetos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion04Objetos/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion05Clases/05-03-clases.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion05Clases/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion07Herencia/Cliente.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion07Herencia/Empleado.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion07Herencia/Persona.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion07Herencia/PruebaPersonas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JavaScript/Segundo Año/Leccion08ProyectoVentas/SistemaVentas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase2Archivos/ManejoArchivos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase2Archivos/archivos_con_with.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase2Archivos/copia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase2Archivos/leer_archivo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase2Archivos/manejo_archivos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase2Archivos/prueba.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase3Peliculas/catalogoPeliculas/dominio/Peliculas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase3Peliculas/catalogoPeliculas/dominio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase3Peliculas/catalogoPeliculas/peliculas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase3Peliculas/catalogoPeliculas/servicio/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase3Peliculas/catalogoPeliculas/servicio/catalogo_peliculas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase3Peliculas/catalogoPeliculas/test_catalogo_peliculas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase4DB/DB/actualizar_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase4DB/DB/i_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase4DB/DB/prueba_bd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase4DB/DB/v_i_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase4DB/DB/v_registros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase7lo/capa_datos_personas/Persona.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase7lo/capa_datos_personas/capa_datos.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase7lo/capa_datos_personas/conexion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase7lo/capa_datos_personas/logger_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Phyton/Segundo Año/Clase7lo/capa_datos_personas/persona_dao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TiendaCelulares" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../TiendaCelulares" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CalculadoraUTN/CalculadoraUTN.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CalculadoraUTN/out/production/CalculadoraUTN/CalculadoraUTN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CalculadoraUTN/src/CalculadoraUTN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/InstanceOf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/out/production/InstanceOf/domain/ClaseGerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/out/production/InstanceOf/domain/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/out/production/InstanceOf/test/TestInstanceOf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/untitled/out/production/untitled/domain/ClaseGerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/untitled/out/production/untitled/domain/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/untitled/out/production/untitled/test/TestSobreescritura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/untitled/src/domain/ClaseGerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/untitled/src/domain/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/untitled/src/test/TestInstanceOf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/InstanceOf/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/SobreEscritura.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/untitled/out/production/untitled/domain/ClaseGerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/untitled/out/production/untitled/domain/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/untitled/out/production/untitled/test/TestSobreescritura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/untitled/src/domain/ClaseGerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/untitled/src/domain/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/untitled/src/test/TestSobreescritura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion04/SobreEscritura/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseAbstractas/ClaseAbstractas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseAbstractas/out/production/ClaseAbstractas/domain/FiguraGeometrica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseAbstractas/out/production/ClaseAbstractas/domain/Rectangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseAbstractas/out/production/ClaseAbstractas/test/TestAbstractas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseAbstractas/src/domain/FiguraGeometrica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseAbstractas/src/domain/Rectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseAbstractas/src/test/TestAbstractas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/ClaseObject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/out/production/ClaseObject/src/domain/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/out/production/ClaseObject/src/domain/Escritor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/out/production/ClaseObject/src/domain/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/out/production/ClaseObject/src/domain/TipoEscritura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/out/production/ClaseObject/src/test/TestClaseObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/src/src/domain/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/src/src/domain/Escritor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/src/src/domain/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/src/src/domain/TipoEscritura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ClaseObject/src/src/test/TestClaseObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/ConversionObjetos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/out/production/ConversionObjetos/domain/Empleado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/out/production/ConversionObjetos/domain/Escritor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/out/production/ConversionObjetos/domain/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/out/production/ConversionObjetos/domain/TipoEscritura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/out/production/ConversionObjetos/test/TestConversionObjetos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/src/domain/Empleado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/src/domain/Escritor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/src/domain/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/src/domain/TipoEscritura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion05/ConversionObjetos/src/test/TestConversionObjetos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/Clase6Interfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/out/production/Clase6Interfaces/accesodatos/IAccesoDatos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/out/production/Clase6Interfaces/accesodatos/ImplementacionMySql.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/out/production/Clase6Interfaces/accesodatos/ImplementacionOracle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/out/production/Clase6Interfaces/test/TestInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/src/accesodatos/IAccesoDatos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/src/accesodatos/ImplementacionMySql.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/src/accesodatos/ImplementacionOracle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion06Interfaces/src/test/TestInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion07/JavaBeans/JavaBeans.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion07/JavaBeans/out/production/JavaBeans/domain/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion07/JavaBeans/out/production/JavaBeans/test/TestJavaBeans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion07/JavaBeans/src/domain/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion07/JavaBeans/src/test/TestJavaBeans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion08Excepciones/ManejoExcepciones1/ManejoExcepciones1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion08Excepciones/ManejoExcepciones1/out/production/ManejoExcepciones1/Excepciones/OperacionExcepcion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion08Excepciones/ManejoExcepciones1/out/production/ManejoExcepciones1/aritmetica/Aritmetica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion08Excepciones/ManejoExcepciones1/out/production/ManejoExcepciones1/test/TestExcepciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion08Excepciones/ManejoExcepciones1/src/Excepciones/OperacionExcepcion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion08Excepciones/ManejoExcepciones1/src/aritmetica/Aritmetica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion08Excepciones/ManejoExcepciones1/src/test/TestExcepciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/Leccion1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/MundoPc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/out/production/MundoPc/ar/com/system2023/mundopc/Computadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/out/production/MundoPc/ar/com/system2023/mundopc/DispositivoEntrada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/out/production/MundoPc/ar/com/system2023/mundopc/Monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/out/production/MundoPc/ar/com/system2023/mundopc/Orden.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/out/production/MundoPc/ar/com/system2023/mundopc/Raton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/out/production/MundoPc/ar/com/system2023/mundopc/Teclado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/out/production/MundoPc/mundoPc/MundoPc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/src/ar/com/system2023/mundopc/Computadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/src/ar/com/system2023/mundopc/DispositivoEntrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/src/ar/com/system2023/mundopc/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/src/ar/com/system2023/mundopc/Orden.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/src/ar/com/system2023/mundopc/Raton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/src/ar/com/system2023/mundopc/Teclado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion1/MundoPc/src/mundoPc/MundoPc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/ArgumentosVariables/ArgumentosVariables.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/ArgumentosVariables/out/production/ArgumentosVariables/test/TestArgumentosVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/ArgumentosVariables/src/test/TestArgumentosVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/BloquesInicializacion/BloquesInicializacion.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/BloquesInicializacion/out/production/BloquesInicializacion/domain/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/BloquesInicializacion/out/production/BloquesInicializacion/test/testBloques.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/BloquesInicializacion/src/domain/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/BloquesInicializacion/src/test/testBloques.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/Enumeraciones.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/out/production/Enumeraciones/enumeraciones/Continentes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/out/production/Enumeraciones/enumeraciones/Dias.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/out/production/Enumeraciones/test/TestEnumeraciones$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/out/production/Enumeraciones/test/TestEnumeraciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/src/enumeraciones/Continentes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/src/enumeraciones/Dias.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion2/Enumeraciones/src/test/TestEnumeraciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/AutoboxingUnboxing/AutoboxingUnboxing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/AutoboxingUnboxing/out/production/AutoboxingUnboxing/test/TestAutoboxingUnboxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/AutoboxingUnboxing/src/test/TestAutoboxingUnboxing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ForEach/ForEach.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ForEach/out/production/ForEach/domien/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ForEach/out/production/ForEach/test/TestForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ForEach/src/domien/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ForEach/src/test/TestForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/ModificadoresDeAcceso.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/out/production/ModificadoresDeAcceso/paquete1/Clase1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/out/production/ModificadoresDeAcceso/paquete1/Clase2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/out/production/ModificadoresDeAcceso/paquete1/ClaseHija2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/out/production/ModificadoresDeAcceso/paquete1/TestDefault.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/out/production/ModificadoresDeAcceso/paquete2/Clase3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/out/production/ModificadoresDeAcceso/paquete2/Clase4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/out/production/ModificadoresDeAcceso/test/TestModificadoresAcceso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/src/paquete1/Clase1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/src/paquete1/Clase2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/src/paquete1/ClaseHija2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/src/paquete1/TestDefault.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/src/paquete2/Clase3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/src/paquete2/Clase4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Leccion3/ModificadoresDeAcceso/src/test/TestModificadoresAcceso.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2V2edyOc55MTVczyQ5MFtgXCGsU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/panch/utn/java/Segundo Año/SegundoSemestre/Clase2/estudiantes&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77dddd06-0d91-488c-8927-5b79e0ea3cdc" name="Changes" comment="" />
+      <created>1694038704802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694038704802</updated>
+    </task>
+    <servers />
+  </component>
+</project>
