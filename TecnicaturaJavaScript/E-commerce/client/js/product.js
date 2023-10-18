@@ -4,14 +4,14 @@ const productos = [
         productName: "Samsung A04",
         price: 8000,
         quantity: 1,
-        img: "media/a04_1_.png",
+        img: "/client/media/a04_1_.png",
     },
     {
         id: 2,
         productName: "Samsung A35",
         price: 7000,
         quantity: 1,
-        img: "media/a34-5g_1.png",
+        img: "/client/media/a34-5g_1.png",
     },
     {
         id: 3,
@@ -40,7 +40,12 @@ const productos = [
         price: 5300,
         quantity: 1,
         img: "media/moto-g23-azul-front.jpg"
-        
-
-    }
+    },
+    {
+        id: 7,
+        productName: "Motorola G23",
+        price: 5300,
+        quantity: 1,
+        img: "media/s-l960.jpg"
+    },
 ];
